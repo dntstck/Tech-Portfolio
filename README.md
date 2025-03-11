@@ -1,9 +1,11 @@
 <!-- (c) dntstck 2025 -->
 <!-- Header -->
 <div align="center"><a href="#" target="_blank"><img alt="Dru Delarosa" src="https://img.shields.io/badge/-%20%20Dru%20Delarosa%20%20-E95420"></a>
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Tech%20Portfolio-2C001E"></div>
-<!-- GH Stats -->
-<div align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rosy-ten.vercel.app?user=dntstck&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/></a></div><br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Tech%20Portfolio-2C001E"></div><br>
+<!-- About Me -->
+<div align="center">
+Hello, I'm Dru Delarosa and welcome to my Tech Portfolio. I am a passionate web developer with an extensive toolset who loves exploring new languages, tools, frameworks and operating systems. Currently I am marrying my web development skills with Rust, which I am currently exploring. I am extremely excited to use Rust in my Web Development projects, as well as embedded projects on the Raspberry Pico, Compute Modules and even the PicoSystem, which doesn't natively support Rust.
+</div><br>
 
 <!-- Languages -->
 <div align="center">
