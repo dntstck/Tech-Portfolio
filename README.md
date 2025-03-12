@@ -7,11 +7,11 @@
 Hello, I'm Dru Delarosa and welcome to my Tech Portfolio. I am a passionate web developer with an extensive toolset who loves exploring new languages, tools, frameworks and operating systems. Currently I am marrying my web development skills with Rust, which I am currently exploring. I am extremely excited to use Rust in my Web Development projects, as well as embedded projects on the Raspberry Pico, Compute Modules and even the PicoSystem, which doesn't natively support Rust.
 
 Please feel free to explore my projects, which are listed below along with my certifications, languages, frameworks, systems and tools.
-</div><br>
+</div>
 <!-- Certifications -->
 <div align="center"> <img alt="Certifications" src="https://img.shields.io/badge/-Certifications-E95420"><br>
 <a href="" target="_blank"><img alt="Mimo JavaScript Certification" src="https://img.shields.io/badge/-[Mimo]%20JavaScript-2C001E?logo=javascript&logoColor=E95420"></a> <a href="" target="_blank"><img alt="Mimo TypeScript Certification" src="https://img.shields.io/badge/-[Mimo]%20TypeScript-2C001E"></a>   <a href="" target="_blank"><img alt="Mimo SQL Certification" src="https://img.shields.io/badge/-[Mimo]%20MySql-2C001E?logo=mysql"> </a> <br>
-<a href="" target="_blank"><img alt="Mimo Pro Backend Certification" src="https://img.shields.io/badge/-[Mimo%20Pro]%20Backend%20Development-2C001E"></a> <a href="" target="_blank"><img alt="Mimo Pro Full Stack Certification" src="https://img.shields.io/badge/-[Mimo%20Pro]%20Full%20Stack%20Development-2C001E"> </a> </div>
+<a href="" target="_blank"><img alt="Mimo Pro Backend Certification" src="https://img.shields.io/badge/-[Mimo%20Pro]%20Backend%20Development-2C001E"></a> <a href="" target="_blank"><img alt="Mimo Pro Full Stack Certification" src="https://img.shields.io/badge/-[Mimo%20Pro]%20Full%20Stack%20Development-2C001E"> </a> </div><br>
 <!-- Languages -->
 <div align="center">
  <img alt="Languages" src="https://img.shields.io/badge/-Languages-E95420"><br>
