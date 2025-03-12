@@ -6,7 +6,7 @@
 <div align="center">
 Hello, I'm Dru Delarosa and welcome to my Tech Portfolio. I am a passionate web developer with an extensive toolset who loves exploring new languages, tools, frameworks and operating systems. Currently I am marrying my web development skills with Rust, which I am currently exploring. I am extremely excited to use Rust in my Web Development projects, as well as embedded projects on the Raspberry Pico, Compute Modules and even the PicoSystem, which doesn't natively support Rust.
 
-Please feel free to explore my projects, which are listed below along with my certifications, languages, frameworks, systems and tools.
+Please feel free to explore my projects and my recently completed Web Development course with HyperionDev which are listed below along with my certifications, languages, frameworks, systems and tools.
 </div>
 <!-- Certifications -->
 <div align="center"> <img alt="Certifications" src="https://img.shields.io/badge/-Certifications-E95420"><br>
@@ -26,8 +26,11 @@ Please feel free to explore my projects, which are listed below along with my ce
 </div>
 <!-- Projects -->
 <br>
-<div align="center"><a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Current Projects" src="https://img.shields.io/badge/-%20%20[Current%20Projects]%20%20-2C001E?&logo=git&logoColor=white"></a></div>
-<img alt="HyperionDev Bootcamp" src="https://img.shields.io/badge/-Web%20Development%20@%20HyperionDev-FE7A16" align="left"> <a href="https://hyperiondev.com" target="_blank"><img alt="HyperionDev" src="https://img.shields.io/badge/-HyperionDev-151515"></a><a href="https://dntstck.github.io/blog/devserver" target="_blank"><img alt="dev server" src="https://img.shields.io/badge/-Home%20Dev%20Server-151515?&logo=raspberrypi&logoColor=C51A4A" align="right"></a></div><br>
+<div align="center"><a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Current Projects" src="https://img.shields.io/badge/-%20%20Projects%20%20-2C001E?&logo=git&logoColor=white"></a></div>
+<img alt="HyperionDev Bootcamp" src="https://img.shields.io/badge/-Web%20Development%20@%20HyperionDev-FE7A16" align="left">
+<a href="https://hyperiondev.com" target="_blank"></a><a href="https://github.com/dntstck/rust-web-server" target="_blank"><img alt="Rust Web Server" src="https://img.shields.io/badge/-Rust%20Web%20Server-151515?&logo=raspberrypi&logoColor=C51A4A" align="right"></a><br>
+
+<a href="https://hyperiondev.com" target="_blank"><img alt="HyperionDev" src="https://img.shields.io/badge/-HyperionDev-151515" align="left"></a><a href="https://github.com/dntstck/rust-web-server" target="_blank"><img alt="Rust Web Server" src="https://img.shields.io/badge/-Rust%20Web%20Server-151515?&logo=raspberrypi&logoColor=C51A4A" align="right"></a><br>
 
 
 <!-- Footer -->
