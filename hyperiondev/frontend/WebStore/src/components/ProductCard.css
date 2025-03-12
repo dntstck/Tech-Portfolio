@@ -1,0 +1,99 @@
+/* ProductCard.css | Dru Delarosa | @dntstck
+//
+*/
+
+/* Main Object
+//
+*/
+
+.product-card {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(6rem, 1fr));
+  gap: 1rem;
+  padding: 1rem;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #cccccc42;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 0 auto;
+  box-shadow: 2px 2px 12px rgba(12, 142, 248, 0.219);
+  margin-top: 20px;
+  background: radial-gradient(circle, #2b2b2b, #242424c7);
+  font-size: small;
+  cursor: pointer;
+}
+
+.product-text {
+  opacity: 50%;
+  cursor: pointer;
+}
+
+.product-text:hover{
+    color: #53cdf2;
+  transition: color 0.5s ease-in;
+}
+
+.product-text:not(:hover){
+  color: #cccccc42;
+}
+
+/* Interact
+//
+*/
+
+.product-card:hover {
+  transform: scale(1.05);
+  transition: 1s ease-in;
+}
+
+.product-card:not(:hover) {
+  transform: scale(1);
+  transition: 1s ease-out;
+}
+
+.product-logo:hover {
+  filter: sepia (0%);
+  transition: ease-in 1s;
+}
+
+.product-logo:not(:hover) {
+  filter: sepia(50%);
+  transition: ease-out 1s;
+}
+
+.buy-button:hover {
+  transform: scale(1.05);
+  opacity: 80%;
+  transition: 1s ease-in;
+}
+
+.buy-button:not(:hover) {
+  transform: scale(1);
+  opacity: 40%;
+  transition: 1s ease-out;
+}
+
+/* General
+//
+*/
+
+.product-logo {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+}
+
+.buy-button {
+  border-radius: 20px;
+  outline: none;
+  box-shadow: 2px 2px 12px rgba(12, 142, 248, 0.219);
+  border-color: #cccccc42;
+  background-color: #2b2b2b;
+  opacity: 50%;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+

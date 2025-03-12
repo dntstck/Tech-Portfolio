@@ -1,0 +1,23 @@
+.main-text {
+  opacity: 50px;
+  margin-right: 50px;
+  font-weight: 250;
+  text-shadow: #53cdf2;
+  text-decoration: aliceblue;
+}
+
+.main-text:hover{
+    color: #53cdf2;
+  transition: color 0.5s ease-in;
+}
+
+.main-text:not(:hover){
+  color: #cccccc42;
+  transition: color 0.5s ease-out;
+}
+
+.total-price {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}

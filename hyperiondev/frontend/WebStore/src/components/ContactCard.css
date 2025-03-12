@@ -1,0 +1,70 @@
+/* ContactCard.css | Dru Delarosa | @dntstck
+//
+*/
+
+/* Main Object
+//
+*/
+
+.contact-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #cccccc42;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 0 auto;
+  box-shadow: 2px 2px 12px rgba(12, 142, 248, 0.219);
+  margin-top: 20px;
+  background: radial-gradient(circle, #2b2b2b, #242424c7);
+}
+
+/* General
+//
+*/
+
+.contact-logo {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+}
+
+/* Interactions
+//
+*/
+
+.contact-card:hover {
+  transform: scale(1.05);
+  transition: 1s ease-in;
+}
+
+.contact-card:not(:hover) {
+  transform: scale(1);
+  transition: 1s ease-out;
+}
+
+.contact-logo:hover {
+  filter: sepia (0%);
+  transition: ease-in 1s;
+}
+
+.contact-logo:not(:hover) {
+  filter: sepia(50%);
+  transition: ease-out 1s;
+}
+
+.main-text {
+  opacity: 50%;
+  cursor: pointer;
+}
+
+.main-text:hover{
+    color: #53cdf2;
+  transition: color 0.5s ease-in;
+}
+
+.main-text:not(:hover){
+  color: #cccccc42;
+}
