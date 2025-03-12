@@ -1,17 +1,17 @@
 <!-- (c) dntstck 2025 -->
 <!-- Header -->
-<div align="center"><a href="#" target="_blank"><img alt="Dru Delarosa" src="https://img.shields.io/badge/-%20%20Dru%20Delarosa%20%20-E95420"></a>
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Tech%20Portfolio-2C001E"></div><br>
+<div align="center"><img alt="Dru Delarosa" src="https://img.shields.io/badge/-%20%20Dru%20Delarosa%20%20-E95420">
+  <img alt="Tech Portfolio" src="https://img.shields.io/badge/-Tech%20Portfolio-2C001E"></div><br>
 <!-- About Me -->
 <div align="center">
 Hello, I'm Dru Delarosa and welcome to my Tech Portfolio. I am a passionate web developer with an extensive toolset who loves exploring new languages, tools, frameworks and operating systems. Currently I am marrying my web development skills with Rust, which I am currently exploring. I am extremely excited to use Rust in my Web Development projects, as well as embedded projects on the Raspberry Pico, Compute Modules and even the PicoSystem, which doesn't natively support Rust.
 
-Please feel free to explore my projects and my recently completed Web Development course with HyperionDev which are listed below along with my certifications, languages, frameworks, systems and tools.
+Please feel free to explore my projects and my recently completed Web Development course with HyperionDev which is listed below along with my certifications, languages, frameworks, systems and tools.
 </div>
 <!-- Certifications -->
 <div align="center"> <img alt="Certifications" src="https://img.shields.io/badge/-Certifications-E95420"><br>
-<a href="/certs/drudelarosa-javascript.pdf" target="_blank"><img alt="Mimo JavaScript Certification" src="https://img.shields.io/badge/-[Mimo]%20JavaScript-2C001E?logo=javascript&logoColor=E95420"></a> <a href="/certs/drudelarosa-typescript.pdf" target="_blank"><img alt="Mimo TypeScript Certification" src="https://img.shields.io/badge/-[Mimo]%20TypeScript-2C001E"></a>   <a href="/certs/drudelarosa-sql.pdf" target="_blank"><img alt="Mimo SQL Certification" src="https://img.shields.io/badge/-[Mimo]%20MySql-2C001E?logo=mysql"> </a> <br>
-<a href="/certs/drudelarosa-backend.pdf" target="_blank"><img alt="Mimo Pro Backend Certification" src="https://img.shields.io/badge/-[Mimo%20Pro]%20Backend%20Development-2C001E"></a> <a href="/certs/drudelarosa-fullstack.pdf" target="_blank"><img alt="Mimo Pro Full Stack Certification" src="https://img.shields.io/badge/-[Mimo%20Pro]%20Full%20Stack%20Development-2C001E"> </a> </div><br>
+<a href="/certs/drudelarosa-javascript.pdf" target="_blank"><img alt="Mimo JavaScript Certification" src="https://img.shields.io/badge/-[Mimo]%20JavaScript-2C001E?logo=javascript&logoColor=E95420"></a> <a href="/certs/drudelarosa-typescript.pdf" target="_blank"><img alt="Mimo TypeScript Certification" src="https://img.shields.io/badge/-[Mimo]%20TypeScript-2C001E?logo=typescript"></a>   <a href="/certs/drudelarosa-sql.pdf" target="_blank"><img alt="Mimo SQL Certification" src="https://img.shields.io/badge/-[Mimo]%20MySql-2C001E?logo=mysql"> </a> <br>
+<a href="/certs/drudelarosa-backend.pdf" target="_blank"><img alt="Mimo Pro Backend Certification" src="https://img.shields.io/badge/-[Mimo%20Pro]%20Backend%20Development-2C001E?logo=nodedotjs"></a> <a href="/certs/drudelarosa-fullstack.pdf" target="_blank"><img alt="Mimo Pro Full Stack Certification" src="https://img.shields.io/badge/-[Mimo%20Pro]%20Full%20Stack%20Development-2C001E?logo=react"> </a> </div><br>
 <!-- Languages -->
 <div align="center">
  <img alt="Languages" src="https://img.shields.io/badge/-Languages-E95420"><br>
@@ -27,12 +27,15 @@ Please feel free to explore my projects and my recently completed Web Developmen
 <!-- Projects -->
 <br>
 <div align="center"><a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Current Projects" src="https://img.shields.io/badge/-%20%20Projects%20%20-2C001E?&logo=git&logoColor=white"></a></div>
-<img alt="HyperionDev Bootcamp" src="https://img.shields.io/badge/-Web%20Development%20@%20HyperionDev-FE7A16" align="left">
-<a href="https://hyperiondev.com" target="_blank"></a><a href="https://github.com/dntstck/rust-web-server" target="_blank"><img alt="Rust Web Server" src="https://img.shields.io/badge/-Rust%20Web%20Server-151515?&logo=raspberrypi&logoColor=C51A4A" align="right"></a><br>
+<img alt="HyperionDev Bootcamp" src="https://img.shields.io/badge/-Web%20Development%20@%20HyperionDev-FE7A16" align="left"><a href="https://hyperiondev.com" target="_blank"></a><img alt="Dev Blog" src="https://img.shields.io/badge/-Personal-FE7A16?" align="right"></a><br>
 
-<a href="https://hyperiondev.com" target="_blank"><img alt="HyperionDev" src="https://img.shields.io/badge/-HyperionDev-151515" align="left"></a><a href="https://github.com/dntstck/rust-web-server" target="_blank"><img alt="Rust Web Server" src="https://img.shields.io/badge/-Rust%20Web%20Server-151515?&logo=raspberrypi&logoColor=C51A4A" align="right"></a><br>
+<a href="/hyperiondev/webdev/" target="_blank"><img alt="Web Dev" src="https://img.shields.io/badge/-Web%20Development%20Fundamentals-151515" align="left"></a><a href="https://dntstck.github.io/blog" target="_blank"><img alt="Dev Blog" src="https://img.shields.io/badge/-Developer%20Blog-151515?" align="right"></a><br>
 
+<a href="/hyperiondev/javascript/" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-151515" align="left"></a><a href="https://dntstck.github.io/blog/cm5" target="_blank"><img alt="CM5 Dev Server" src="https://img.shields.io/badge/-Compute%20Module%205%20Dev%20Server-151515?" align="right"></a><br>
 
+<a href="/hyperiondev/backend/" target="_blank"><img alt="Backend Development" src="https://img.shields.io/badge/-Backend%20Development-151515" align="left"></a><a href="https://github.com/dntstck/picosystem-sdk-rs" target="_blank"><img alt="Rust on the PicoSystem" src="https://img.shields.io/badge/-Rust%20on%20the%20PicoSystem-151515?" align="right"></a><br>
+
+<a href="/hyperiondev/backend/" target="_blank"><img alt="Frontend Development" src="https://img.shields.io/badge/-Frontend%20Development-151515" align="left"></a><a href="https://github.com/dntstck/rust-web-server" target="_blank"><img alt="Rust Web Server" src="https://img.shields.io/badge/-Rust%20Web%20Server-151515?" align="right"></a><br>
 <!-- Footer -->
 <br>
 <div align="center">
