@@ -10,8 +10,8 @@ Please feel free to explore my projects and my recently completed Web Developmen
 </div>
 <!-- Certifications -->
 <div align="center"> <img alt="Certifications" src="https://img.shields.io/badge/-Certifications-E95420"><br>
-<a href="" target="_blank"><img alt="Mimo JavaScript Certification" src="https://img.shields.io/badge/-[Mimo]%20JavaScript-2C001E?logo=javascript&logoColor=E95420"></a> <a href="" target="_blank"><img alt="Mimo TypeScript Certification" src="https://img.shields.io/badge/-[Mimo]%20TypeScript-2C001E"></a>   <a href="" target="_blank"><img alt="Mimo SQL Certification" src="https://img.shields.io/badge/-[Mimo]%20MySql-2C001E?logo=mysql"> </a> <br>
-<a href="" target="_blank"><img alt="Mimo Pro Backend Certification" src="https://img.shields.io/badge/-[Mimo%20Pro]%20Backend%20Development-2C001E"></a> <a href="" target="_blank"><img alt="Mimo Pro Full Stack Certification" src="https://img.shields.io/badge/-[Mimo%20Pro]%20Full%20Stack%20Development-2C001E"> </a> </div><br>
+<a href="/certs/drudelarosa-javascript.pdf" target="_blank"><img alt="Mimo JavaScript Certification" src="https://img.shields.io/badge/-[Mimo]%20JavaScript-2C001E?logo=javascript&logoColor=E95420"></a> <a href="/certs/drudelarosa-typescript.pdf" target="_blank"><img alt="Mimo TypeScript Certification" src="https://img.shields.io/badge/-[Mimo]%20TypeScript-2C001E"></a>   <a href="/certs/drudelarosa-sql.pdf" target="_blank"><img alt="Mimo SQL Certification" src="https://img.shields.io/badge/-[Mimo]%20MySql-2C001E?logo=mysql"> </a> <br>
+<a href="/certs/drudelarosa-backend.pdf" target="_blank"><img alt="Mimo Pro Backend Certification" src="https://img.shields.io/badge/-[Mimo%20Pro]%20Backend%20Development-2C001E"></a> <a href="/certs/drudelarosa-fullstack.pdf" target="_blank"><img alt="Mimo Pro Full Stack Certification" src="https://img.shields.io/badge/-[Mimo%20Pro]%20Full%20Stack%20Development-2C001E"> </a> </div><br>
 <!-- Languages -->
 <div align="center">
  <img alt="Languages" src="https://img.shields.io/badge/-Languages-E95420"><br>
