@@ -27,7 +27,8 @@ Please feel free to explore my projects and my recently completed Web Developmen
 <!-- Projects -->
 <br>
 <div align="center"><a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Current Projects" src="https://img.shields.io/badge/-%20%20Projects%20%20-2C001E?&logo=git&logoColor=white"></a></div><br>
-<img alt="HyperionDev Bootcamp" src="https://img.shields.io/badge/-Web%20Development%20@%20HyperionDev-FE7A16" align="left"><a href="https://hyperiondev.com" target="_blank"></a><img alt="Dev Blog" src="https://img.shields.io/badge/-Personal-FE7A16?" align="right"></a><br>
+
+<img alt="HyperionDev Bootcamp" src="https://img.shields.io/badge/-Web%20Development%20@%20HyperionDev-FE7A16" align="left"><a href="https://hyperiondev.com" target="_blank"></a> <img alt="Personal" src="https://img.shields.io/badge/-Personal-FE7A16?" align="right"></a><br>
 
 <a href="/hyperiondev/webdev/" target="_blank"><img alt="Web Dev" src="https://img.shields.io/badge/-Web%20Development%20Fundamentals-151515" align="left"></a><a href="https://dntstck.github.io/blog" target="_blank"><img alt="Dev Blog" src="https://img.shields.io/badge/-Developer%20Blog-151515?" align="right"></a><br>
 
