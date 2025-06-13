@@ -1,21 +1,21 @@
 <!-- (c) dntstck 2025 -->
 <!-- Header -->
 <div align="center"><img alt="Dru Delarosa" src="https://img.shields.io/badge/-%20%20Dru%20Delarosa%20%20-E95420">
-  <img alt="Tech Portfolio" src="https://img.shields.io/badge/-Tech%20Portfolio-2C001E"></div><br>
+  <img alt="Tech Portfolio" src="https://img.shields.io/badge/-Tech%20Portfolio-E95420"></div><br>
 <!-- About Me -->
 <div align="center">
 Hello, I'm Dru Delarosa. <br>Software engineer specializing in Rust development, embedded systems, automation, and full-stack web engineering. My work spans high-performance backend systems, CI/CD automation, and interactive web applications.<br><br>
 </div>
 <!-- Certifications -->
 <div align="center"> <img alt="Certifications" src="https://img.shields.io/badge/-Certifications-E95420"><br>
-<a href="/certs/drudelarosa-javascript.pdf" target="_blank"><img alt="Mimo JavaScript Certification" src="https://img.shields.io/badge/-[Mimo]%20JavaScript-2C001E?logo=javascript&logoColor=E95420"></a> <a href="/certs/drudelarosa-typescript.pdf" target="_blank"><img alt="Mimo TypeScript Certification" src="https://img.shields.io/badge/-[Mimo]%20TypeScript-2C001E?logo=typescript"></a>   <a href="/certs/drudelarosa-sql.pdf" target="_blank"><img alt="Mimo SQL Certification" src="https://img.shields.io/badge/-[Mimo]%20MySql-2C001E?logo=mysql"> </a> <br>
-<a href="/certs/drudelarosa-backend.pdf" target="_blank"><img alt="Mimo Pro Backend Certification" src="https://img.shields.io/badge/-[Mimo%20Pro]%20Backend%20Development-2C001E?logo=nodedotjs"></a> <a href="/certs/drudelarosa-fullstack.pdf" target="_blank"><img alt="Mimo Pro Full Stack Certification" src="https://img.shields.io/badge/-[Mimo%20Pro]%20Full%20Stack%20Development-2C001E?logo=react"> </a> </div><br>
+<a href="/certs/drudelarosa-javascript.pdf" target="_blank"><img alt="Mimo JavaScript Certification" src="https://img.shields.io/badge/-[Mimo]%20JavaScript-E95420?logo=javascript&logoColor=E95420"></a> <a href="/certs/drudelarosa-typescript.pdf" target="_blank"><img alt="Mimo TypeScript Certification" src="https://img.shields.io/badge/-[Mimo]%20TypeScript-E95420?logo=typescript"></a>   <a href="/certs/drudelarosa-sql.pdf" target="_blank"><img alt="Mimo SQL Certification" src="https://img.shields.io/badge/-[Mimo]%20MySql-E95420?logo=mysql"> </a> <br>
+<a href="/certs/drudelarosa-backend.pdf" target="_blank"><img alt="Mimo Pro Backend Certification" src="https://img.shields.io/badge/-[Mimo%20Pro]%20Backend%20Development-E95420?logo=nodedotjs"></a> <a href="/certs/drudelarosa-fullstack.pdf" target="_blank"><img alt="Mimo Pro Full Stack Certification" src="https://img.shields.io/badge/-[Mimo%20Pro]%20Full%20Stack%20Development-E95420?logo=react"> </a> </div><br>
 <!-- Languages -->
 <div align="center">
  <img alt="Languages" src="https://img.shields.io/badge/-Languages-E95420"><br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript"></a> <a href="https://rust-lang.org" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/-Rust-181717?style=flat-square&logo=rust"></a>  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-181717?style=flat-square&logo=c&logoColor=5C6BC0"></a> <a href="https://www.typescriptlang.org/" target="_blank"><img alt="" src="https://img.shields.io/badge/-TypeScript-181717?style=flat-square&logo=typescript"></a> <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML-181717?style=flat-square&logo=html5"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-181717?style=flat-square&logo=css3&logoColor=2999F9"></a> <a href="https://www.php.net/" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-181717?style=flat-square&logo=php"></a> <a href="https://lua.org" target="_blank"><img alt="Lua" src="https://img.shields.io/badge/Lua-181717?style=flat-square&logo=lua&logoColor=009F99"></a><br>
 <!-- Frameworks -->
-<img alt="Frameworks" src="https://img.shields.io/badge/-Frameworks-2C001E"><br>
+<img alt="Frameworks" src="https://img.shields.io/badge/-Frameworks-E95420"><br>
  <a href="https://react.dev" target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-181717?style=flat-square&logo=react"></a> <a href="https://expressjs.com" target="_blank"><img alt="Express" src="https://img.shields.io/badge/-Express-181717?style=flat-square&logo=express"></a> <a href="https://jekyllrb.com" target="_blank"><img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-181717?style=flat-square&logo=jekyll"></a> <a href="https://alpinejs.dev" target="_blank"><img alt="Alpine.js" src="https://img.shields.io/badge/-Alpine.js-181717?style=flat-square&logo=alpinedotjs"></a> <a href="https://jasmine.github.io/" target="_blank"><img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-181717?style=flat-square&logo=jasmine"></a> <br>
 <!-- Systems & Tools -->
  <img alt="Systems and Tools" src="https://img.shields.io/badge/-Systems%20%26%20Tools-E95420"><br>
@@ -24,7 +24,7 @@ Hello, I'm Dru Delarosa. <br>Software engineer specializing in Rust development,
 </div>
 <!-- Projects -->
 <br>
-<div align="center"><a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Current Projects" src="https://img.shields.io/badge/-%20%20Projects%20%20-2C001E?&logo=git&logoColor=white"></a></div><br>
+<div align="center"><a href="https://github.com/dntstck?tab=repositories" target="_blank"><img alt="Current Projects" src="https://img.shields.io/badge/-%20%20Projects%20%20-E95420?&logo=git&logoColor=white"></a></div><br>
 
 <img alt="HyperionDev Bootcamp" src="https://img.shields.io/badge/-Web%20Development%20@%20HyperionDev-FE7A16" align="left"><a href="https://hyperiondev.com" target="_blank"></a> <img alt="Personal" src="https://img.shields.io/badge/-Personal-FE7A16?" align="right"></a><br>
 
