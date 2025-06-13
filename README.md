@@ -4,7 +4,7 @@
   <img alt="Tech Portfolio" src="https://img.shields.io/badge/-Tech%20Portfolio-2C001E"></div><br>
 <!-- About Me -->
 <div align="center">
-Hello, I'm Dru Delarosa. Software engineer specializing in Rust development, embedded systems, automation, and full-stack web engineering. My work spans high-performance backend systems, CI/CD automation, and interactive web applications.
+Hello, I'm Dru Delarosa. <br>Software engineer specializing in Rust development, embedded systems, automation, and full-stack web engineering. My work spans high-performance backend systems, CI/CD automation, and interactive web applications.<br>
 </div>
 <!-- Certifications -->
 <div align="center"> <img alt="Certifications" src="https://img.shields.io/badge/-Certifications-E95420"><br>
