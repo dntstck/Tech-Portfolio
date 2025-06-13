@@ -28,9 +28,9 @@ Hello, I'm Dru Delarosa. Software engineer specializing in Rust development, emb
 
 <img alt="HyperionDev Bootcamp" src="https://img.shields.io/badge/-Web%20Development%20@%20HyperionDev-FE7A16" align="left"><a href="https://hyperiondev.com" target="_blank"></a> <img alt="Personal" src="https://img.shields.io/badge/-Personal-FE7A16?" align="right"></a><br>
 
-<a href="/hyperiondev/webdev/" target="_blank"><img alt="Web Dev" src="https://img.shields.io/badge/-Web%20Development%20Fundamentals-151515" align="left"></a><a href="https://dntstck.github.io/blog" target="_blank"><img alt="Dev Blog" src="https://img.shields.io/badge/-Developer%20Blog-151515?" align="right"></a><br>
+<a href="/hyperiondev/webdev/" target="_blank"><img alt="Web Dev" src="https://img.shields.io/badge/-Web%20Development%20Fundamentals-151515" align="left"></a><a href="https://github.com/dntstck/virgo" target="_blank"><img alt="Dev Blog" src="https://img.shields.io/badge/-Virgo-151515?" align="right"></a><br>
 
-<a href="/hyperiondev/javascript/" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-151515" align="left"></a><a href="https://dntstck.github.io/blog/cm5" target="_blank"><img alt="CM5 Dev Server" src="https://img.shields.io/badge/-Compute%20Module%205%20Dev%20Server-151515?" align="right"></a><br>
+<a href="/hyperiondev/javascript/" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-151515" align="left"></a><a href="https://dntstck.github.io/blog" target="_blank"><img alt="Dev Blog" src="https://img.shields.io/badge/-Developer%20Blog-151515?" align="right"></a><br>
 
 <a href="/hyperiondev/backend/" target="_blank"><img alt="Backend Development" src="https://img.shields.io/badge/-Backend%20Development-151515" align="left"></a><a href="https://github.com/dntstck/picosystem-sdk-rs" target="_blank"><img alt="Rust on the PicoSystem" src="https://img.shields.io/badge/-Rust%20on%20the%20PicoSystem-151515?" align="right"></a><br>
 
