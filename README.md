@@ -34,7 +34,7 @@ Hello, I'm Dru Delarosa. <br>Software engineer specializing in Rust development,
 
 <a href="/hyperiondev/backend/" target="_blank"><img alt="Backend Development" src="https://img.shields.io/badge/-Backend%20Development-151515" align="left"></a><a href="https://github.com/dntstck/picosystem-sdk-rs" target="_blank"><img alt="Rust on the PicoSystem" src="https://img.shields.io/badge/-Rust%20on%20the%20PicoSystem-151515?" align="right"></a><br>
 
-<a href="/hyperiondev/backend/" target="_blank"><img alt="Frontend Development" src="https://img.shields.io/badge/-Frontend%20Development-151515" align="left"></a><a href="https://github.com/dntstck/rust-web-server" target="_blank"><img alt="Rust Web Server" src="https://img.shields.io/badge/-Rust%20Web%20Server-151515?" align="right"></a><br>
+<a href="/hyperiondev/frontend/" target="_blank"><img alt="Frontend Development" src="https://img.shields.io/badge/-Frontend%20Development-151515" align="left"></a><a href="https://github.com/dntstck/rust-web-server" target="_blank"><img alt="Rust Web Server" src="https://img.shields.io/badge/-Rust%20Web%20Server-151515?" align="right"></a><br>
 <!-- Footer -->
 <br>
 <div align="center">
